@@ -1,0 +1,32 @@
+
+img {
+	border: 1px solid #ddd;
+	border-radius: 20px;
+	padding: 20px;
+	width: 350px;
+}
+
+li{
+	list-style-type: upper-roman;
+}
+
+.nicegal{
+	color: blue;
+	border: 1px solid red;
+}
+
+.galback{
+	background-color:yellow;
+}
+
+#micetitle{
+	color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 75px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center;
+}
+
+
+
+
+
+
+
+
